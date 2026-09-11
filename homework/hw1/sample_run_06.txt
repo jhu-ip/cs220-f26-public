@@ -1,0 +1,14 @@
+$ gcc -lm -std=c99 -pedantic -Wall -Wextra distance.c -o distance
+$ ./distance 
+Welcome to the distance calculation program.
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 1
+Enter a label: L
+Enter a latitude and longitude pair: x y
+Error: unable to read coordinates.
+$ 

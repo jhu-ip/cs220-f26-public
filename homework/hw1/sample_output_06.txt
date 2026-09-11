@@ -1,0 +1,8 @@
+Welcome to the distance calculation program.
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: Enter a label: Enter a latitude and longitude pair: Error: unable to read coordinates.

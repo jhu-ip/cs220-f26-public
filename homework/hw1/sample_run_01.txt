@@ -1,0 +1,64 @@
+$ gcc -lm -std=c99 -pedantic -Wall -Wextra distance.c -o distance
+$ ./distance 
+Welcome to the distance calculation program.
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 1
+Enter a label: B
+Enter a latitude and longitude pair: 39.2904 -76.6122
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 1
+Enter a label: W
+Enter a latitude and longitude pair: 38.9072 -77.0369
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 3
+B: (39.290400, -76.612200)
+W: (38.907200, -77.036900)
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 4
+Enter a label: B
+Enter a second label: W
+Approximate distance in miles: 34.92
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 2
+Enter a label: B
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 3
+W: (38.907200, -77.036900)
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 0
+$ 

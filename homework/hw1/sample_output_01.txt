@@ -1,0 +1,48 @@
+Welcome to the distance calculation program.
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: Enter a label: Enter a latitude and longitude pair: Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: Enter a label: Enter a latitude and longitude pair: Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: B: (39.290400, -76.612200)
+W: (38.907200, -77.036900)
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: Enter a label: Enter a second label: Approximate distance in miles: 34.92
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: Enter a label: Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: W: (38.907200, -77.036900)
+Please select an option:
+[1] Add a location
+[2] Remove a location
+[3] List locations
+[4] Compute distance
+[0] Quit
+Option: 
