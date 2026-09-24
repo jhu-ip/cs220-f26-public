@@ -1,0 +1,5 @@
+NEW best word: nok
+NEW best word: klm
+Best word is klm with 9 points
+noKLM
+parst

@@ -1,0 +1,9 @@
+NEW best word: ab
+NEW best word: hij
+Best word is hij with 13 points
+abcde
+fgHIJ
+klmno
+parst
+uvwex
+yxota

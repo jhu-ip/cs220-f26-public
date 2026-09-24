@@ -1,0 +1,7 @@
+--- found word: no with 2 pts ending at 0,1
+--- found word: nok with 7 pts ending at 0,2
+--- found word: klm with 9 pts ending at 0,4
+--- found word: par with 5 pts ending at 1,2
+--- found word: a with 1 pts ending at 1,1
+
+Best word is klm with 9 points
