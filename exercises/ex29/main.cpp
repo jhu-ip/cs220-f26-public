@@ -5,19 +5,19 @@ int main() {
   Complex a;
   Complex b(1, 2);
 
-  // Uncomment after finishing part 2
+  // Uncomment after finishing part 2; recheck results after part 5
   /*
   std::cout << a << " (expected: 0 + 0i)" << std::endl;
   std::cout << b << " (expected: 1 + 2i)" << std::endl;
-  */
-  
-  // Uncomment after finishing part 3
-  /*
-  Complex c = a;
+  Complex c(a);
   Complex d;
   d = b;
   std::cout << c << " (expected: " << a << ")" << std::endl; 
   std::cout << d << " (expected: " << b << ")" << std::endl;
+  */
+  
+  // Uncomment after finishing part 3
+  /*
   Complex e = b + d;
   std::cout << e << " (expected: 2 + 4i)" << std::endl;
   Complex f = b - d;
